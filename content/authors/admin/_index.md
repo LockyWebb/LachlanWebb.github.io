@@ -74,7 +74,7 @@ skills:
       - name: Reading (sci-fi and fantasy)
         description: ''
         percent: 60
-        icon: :book:
+        icon: book
         icon_pack: emoji
       - name: Gym
         description: ''
