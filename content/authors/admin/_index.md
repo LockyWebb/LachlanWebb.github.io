@@ -79,7 +79,7 @@ skills:
       - name: Gym
         description: ''
         percent: 10
-        icon: :weight_lifting:
+        icon: weight_lifting
         icon_pack: emoji
       - name: Netflix
         description: ''
