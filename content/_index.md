@@ -193,7 +193,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      filters: webb-2021-automated
+      filters: 
         folders:
           - publication
         featured_only: true
