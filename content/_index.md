@@ -252,7 +252,7 @@ sections:
         - ''
         - ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:, 
+      coordinates: 
         latitude: '-27.449292092336513'
         longitude: '153.02702630500272'  
       contact_links:
