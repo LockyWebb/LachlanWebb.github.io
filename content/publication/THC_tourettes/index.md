@@ -30,14 +30,14 @@ publication_types: ["article"]
 publication: "Tetrahydrocannabinol and Cannabidiol in Tourette Syndrome"
 publication_short: ""
 
-abstract: BACKGROUND
+abstract: "BACKGROUND
 Tourette syndrome is characterized by chronic motor and vocal tics. There is preliminary evidence of benefit from cannabis products containing Δ9-tetrahydrocannabinol (THC) and that coadministration of cannabidiol (CBD) improves the side-effect profile and safety.
 METHODS
 In this double-blind, crossover trial, participants with severe Tourette syndrome were randomly assigned to a 6-week treatment period with escalating doses of an oral oil containing 5 mg/ml of THC and 5 mg/ml of CBD, followed by a 6-week course of placebo, or vice versa, separated by a 4-week washout period. The primary outcome was the total tic score on the Yale Global Tic Severity Scale (YGTSS; range, 0 to 50 [higher scores indicate greater severity of symptoms]). Secondary outcomes included video-based assessment of tics, global impairment, anxiety, depression, and obsessive-compulsive symptoms. Outcomes were correlated with plasma levels of cannabinoid metabolites. A computerized cognitive battery was administered at the beginning and the end of each treatment period.
 RESULTS
 Overall, 22 participants (eight female participants) were enrolled. Reduction in total tic score (at week 6 relative to baseline) as measured by the YGTSS was 8.9 (±7.6) in the active group and 2.5 (±8.5) in the placebo group. In a linear mixed-effects model, there was a significant interaction of treatment (active/placebo) and visit number on tic score (coefficient = −2.28; 95% confidence interval, −3.96 to −0.60; P=0.008), indicating a greater decrease (improvement) in tics under active treatment. There was a correlation between plasma 11-carboxy-tetrahydrocannabinol levels and the primary outcome, which was attenuated after exclusion of an outlier. The most common adverse effect in the placebo period was headache (n=7); in the active treatment period, it was cognitive difficulties, including slowed mentation, memory lapses, and poor concentration (n=8).
 CONCLUSIONS
-In severe Tourette syndrome, treatment with THC and CBD reduced tics and may reduce impairment due to tics, anxiety, and obsessive-compulsive disorder; although in some participants this was associated with slowed mentation, memory lapses, and poor concentration. (Funded by the Wesley Medical Research Institute, Brisbane, and the Lambert Initiative for Cannabinoid Therapeutics, a philanthropically-funded research organization at the University of Sydney, Australia; Australian and New Zealand Clinical Trials Registry number, ACTRN12618000545268.)
+In severe Tourette syndrome, treatment with THC and CBD reduced tics and may reduce impairment due to tics, anxiety, and obsessive-compulsive disorder; although in some participants this was associated with slowed mentation, memory lapses, and poor concentration. (Funded by the Wesley Medical Research Institute, Brisbane, and the Lambert Initiative for Cannabinoid Therapeutics, a philanthropically-funded research organization at the University of Sydney, Australia; Australian and New Zealand Clinical Trials Registry number, ACTRN12618000545268.)"
 
 # Summary. An optional shortened abstract.
 summary: ''
