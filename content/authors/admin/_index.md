@@ -25,7 +25,7 @@ organizations:
     url: https://www.qimrberghofer.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sleep development, mental health, and statistics.
 
 # Interests to show in About widget
 interests:
