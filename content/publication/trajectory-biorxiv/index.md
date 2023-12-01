@@ -72,7 +72,7 @@ url_dataset: 'https://github.com/brain-modelling-group/infant-sleep-trajectory/t
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - PhD
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
