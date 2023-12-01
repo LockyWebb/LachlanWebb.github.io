@@ -1,5 +1,5 @@
 ---
-title: My PhP
+title: My PhD
 summary: Modelling Infant Sleep Brain Activity
 tags:
   - Sleep

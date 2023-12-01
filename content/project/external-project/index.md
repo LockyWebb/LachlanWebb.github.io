@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: HYBPA Contestant Rating
+summary: Rating and analying the contestants on one of my favourite TV shows.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/LockyWebb/HYBPAanalysis
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
