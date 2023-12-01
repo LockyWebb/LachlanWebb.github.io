@@ -66,7 +66,7 @@ skills:
         description: ''
         percent: 40
         icon: overleaf
-        icon_pack: fab
+        icon_pack: ai
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
