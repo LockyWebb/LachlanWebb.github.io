@@ -32,7 +32,7 @@ interests:
   - Biostatistics
   - Mathematical Modelling 
   - Sleep
-  - Neuroscientist 
+  - Neuroscience 
 
 # Education to show in About widget
 education:
@@ -65,8 +65,8 @@ skills:
       - name: latex
         description: ''
         percent: 40
-        icon: ''
-        icon_pack: ''
+        icon: overleaf
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -75,17 +75,17 @@ skills:
         description: ''
         percent: 60
         icon: book
-        icon_pack: emoji
+        icon_pack: fas
       - name: Gym
         description: ''
         percent: 10
-        icon: weight_lifting
-        icon_pack: emoji
+        icon: dumbbell
+        icon_pack: fas
       - name: Netflix
         description: ''
         percent: 80
-        icon: ''
-        icon_pack: ''
+        icon: film
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
