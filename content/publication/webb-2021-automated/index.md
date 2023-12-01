@@ -25,7 +25,8 @@ Artefacts can be accurately and reliably identified in the neonatal EEG using a 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- EEG
+- Artefact Detection
 featured: false
 
 # links:

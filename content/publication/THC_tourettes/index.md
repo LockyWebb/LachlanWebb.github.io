@@ -24,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tetrahydrocannabinol and Cannabidiol in Tourette Syndrome"
+publication: "*NEJM Evidence*"
 publication_short: ""
 
 abstract: "BACKGROUND
@@ -43,7 +43,9 @@ In severe Tourette syndrome, treatment with THC and CBD reduced tics and may red
 summary: ''
 
 tags:
-- Source Themes
+- Tourettes
+- THC
+- Biostatistics
 featured: false
 
 links:

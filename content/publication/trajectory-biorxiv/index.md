@@ -36,6 +36,11 @@ abstract: Sleep patterns in infancy and early childhood vary greatly and change 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
+- Sleep
+- Infancy
+- Neurodevelopment
+- Mathematical modelling
+- Circadian
 
 # Display this page in the Featured widget?
 featured: true

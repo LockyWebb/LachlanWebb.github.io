@@ -73,7 +73,7 @@ skills:
     items:
       - name: Reading (sci-fi and fantasy)
         description: ''
-        percent: 60
+        percent: 80
         icon: book
         icon_pack: fas
       - name: Gym
@@ -101,8 +101,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=FGaF4rcAAAAJ&view_op=list_works
   - icon: github
     icon_pack: fab
