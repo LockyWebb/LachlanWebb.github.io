@@ -1,6 +1,6 @@
 ---
 title: HYBPA Contestant Rating
-summary: Rating and analying the contestants on one of my favourite TV shows.
+summary: Rating and analysing the contestants on one of my favourite TV shows.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
