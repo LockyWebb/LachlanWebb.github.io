@@ -15,10 +15,10 @@ date: '2023-12-18T00:00:00Z'
 lastmod: '2023-12-18T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
