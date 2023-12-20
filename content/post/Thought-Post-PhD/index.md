@@ -1,8 +1,12 @@
 ---
 title: Post PhD
 subtitle: I have finished my PhD (almost)
+date: 2023-12-20
+authors:
+  - admin
+---  
 
-# Summary for listings and search engines
+<!--# Summary for listings and search engines
 summary: Thoughts post-PhD
 
 # Link this post with a project
@@ -14,6 +18,9 @@ date: '2023-12-18T00:00:00Z'
 # Date updated
 lastmod: '2023-12-20T00:00:00Z'
 
+# Is this an unpublished draft?
+draft: true
+
 # Show this page in the Featured widget?
 featured: true
 
@@ -24,10 +31,7 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
-
-authors:
-  - admin
----  
+  -->
 
 <!-- # tags:
 #   - Academic
@@ -35,10 +39,6 @@ authors:
 
 # categories:
 #   - PhD
-
-# Is this an unpublished draft?
-draft: true
-
 #--- -->
 
 ## I submitted my thesis
