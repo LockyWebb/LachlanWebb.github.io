@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Lachlan Webb is a biostatistician and computational neuroscientist (PhD submitted). He has been involved in research across a number of disciplines, including: antimalarial clinical trials, the neurodevelopment of sleep in human infancy and childhood, stimulation theraputics for mental health disorders. 
+Lachlan Webb is a biostatistician and computational neuroscientist (PhD submitted). He has been involved in research across a number of disciplines, including: antimalarial clinical trials, the neurodevelopment of sleep in human infancy and childhood, and stimulation theraputics for mental health disorders. 
 {style="text-align: justify;"}
