@@ -3,7 +3,7 @@ title: Post PhD
 subtitle: I have finished my PhD (almost)
 
 # Summary for listings and search engines
-summary: thoughts post-PhD
+summary: Thoughts post-PhD
 
 # Link this post with a project
 projects: PhD
@@ -32,12 +32,12 @@ authors:
   - admin
   
 
-tags:
-  - Academic
+# tags:
+#   - Academic
 
 
-categories:
-  - PhD
+# categories:
+#   - PhD
 ---
 
 ## I submitted my thesis
