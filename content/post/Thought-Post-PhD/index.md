@@ -1,6 +1,7 @@
 ---
 title: Post PhD
 subtitle: I have finished my PhD (almost)
+summary: Thoughts post-PhD
 date: 2023-12-20
 authors:
   - admin
