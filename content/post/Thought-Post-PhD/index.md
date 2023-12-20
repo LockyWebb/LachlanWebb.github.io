@@ -14,9 +14,6 @@ date: '2023-12-18T00:00:00Z'
 # Date updated
 lastmod: '2023-12-20T00:00:00Z'
 
-# Is this an unpublished draft?
-draft: true
-
 # Show this page in the Featured widget?
 featured: true
 
@@ -38,6 +35,10 @@ authors:
 
 # categories:
 #   - PhD
+
+# Is this an unpublished draft?
+draft: true
+
 #--- -->
 
 ## I submitted my thesis
