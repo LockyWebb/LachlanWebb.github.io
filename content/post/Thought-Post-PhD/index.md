@@ -53,16 +53,16 @@ image:
 
 ## I submitted my thesis
 
-I submitted my thesis titled 'Modelling Infant Sleep Brain Activity' on the 29th of November. I started the month with the plan to submit by the 30/11, so I was honestly surprised that I was ready to submit a day earlier.
+I submitted my thesis titled *Modelling Infant Sleep Brain Activity* on the 29th of November. I started the month with the plan to submit by the 30/11, so I was honestly surprised that I was ready to submit a day earlier.
 
-It was a long slog from starting in January 2020, with impacts from COVID-19 lockdowns and other distractions. Now, while I wait for the thesis to be sent to examiners, and then my oral defense in 2024, I am happy to be starting a post-doc in the new year. 
+It was a long slog from starting in January 2020, with impacts from COVID-19 lockdowns and other distractions. Now, while I wait for the thesis to be sent to examiners, and then my oral defense in 2024, I am happy to be starting a post-doc in the new year. After 4 years with the **Brain Modelling Group** under James Roberts, it's time for something a little bit different
 
 ## New things to come
 
-I will join the Clinical Brain Networks group at QIMR Berghofer, initally as a reasearch assistant while I wait for my thesis to be assessed, then as a post-doctoral researcher. 
+I will join the **Clinical Brain Networks** group at QIMR Berghofer, initally as a reasearch assistant while I wait for my thesis to be assessed, then as a post-doctoral researcher. 
 
 I currently plan to continue working in the QIMR B Statistics Unit part time.
 
-Also, the three planned papers from thesis are yet to be published. One had been submitted, and the other two are in the works, so I am sure I will be kept busy next year. 
+Also, the three planned papers from my thesis are yet to be published. One had been submitted, and the other two are in the works, so I am sure I will be kept busy next year. 
 
 I am looking forward to new challenges and a bit of a different scene in 2024. 
