@@ -30,15 +30,15 @@ image:
 
 authors:
   - admin
-  
+---  
 
-# tags:
+<!-- # tags:
 #   - Academic
 
 
 # categories:
 #   - PhD
----
+#--- -->
 
 ## I submitted my thesis
 
