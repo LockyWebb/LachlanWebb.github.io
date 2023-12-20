@@ -5,7 +5,7 @@ date: 2023-12-20
 authors:
   - admin
  # Link this post with a project
-projects: PhD
+projects: 'PhD'
 ---  
 
 <!--# Summary for listings and search engines
