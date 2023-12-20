@@ -4,13 +4,13 @@ subtitle: I have finished my PhD (almost)
 date: 2023-12-20
 authors:
   - admin
+ # Link this post with a project
+projects: PhD
 ---  
 
 <!--# Summary for listings and search engines
 summary: Thoughts post-PhD
 
-# Link this post with a project
-projects: PhD
 
 # Date published
 date: '2023-12-18T00:00:00Z'
