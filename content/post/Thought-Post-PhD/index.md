@@ -7,6 +7,15 @@ authors:
   - admin
  # Link this post with a project
 projects: [PhD]
+# Show this page in the Featured widget?
+featured: true
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**UQ**](https://rdm.uq.edu.au/thesis/dashboard)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
 ---  
 
 <!--# Summary for listings and search engines
