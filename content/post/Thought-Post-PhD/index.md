@@ -12,7 +12,7 @@ projects: PhD
 date: '2023-12-18T00:00:00Z'
 
 # Date updated
-lastmod: '2023-12-18T00:00:00Z'
+lastmod: '2023-12-20T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: true
@@ -22,11 +22,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-# image:
-#   #caption: 'Image credit: [**UQ**](https://rdm.uq.edu.au/thesis/dashboard)'
-#   focal_point: ''
-#   placement: 2
-#   preview_only: false
+image:
+  caption: 'Image credit: [**UQ**](https://rdm.uq.edu.au/thesis/dashboard)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
 
 authors:
   - admin
