@@ -42,7 +42,7 @@ categories:
 
 ## I submitted my thesis
 
-I submitted my thesis titled  *Modelling Infant Sleep Brain Activity* on the 29th of November. I started the month with the plan to submit by the 30/11, so I was honestly surprised that I was ready to submit a day earlier.
+I submitted my thesis titled 'Modelling Infant Sleep Brain Activity' on the 29th of November. I started the month with the plan to submit by the 30/11, so I was honestly surprised that I was ready to submit a day earlier.
 
 It was a long slog from starting in January 2020, with impacts from COVID-19 lockdowns and other distractions. Now, while I wait for the thesis to be sent to examiners, and then my oral defense in 2024, I am happy to be starting a post-doc in the new year. 
 
