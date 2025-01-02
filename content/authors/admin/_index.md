@@ -33,13 +33,14 @@ interests:
   - Mathematical Modelling 
   - Sleep
   - Neuroscience 
+  - Mental Health
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Mathematics
+    - course: PhD in Applied Mathematics and Computational Neuroscinece
       institution: University of Queensland
-      year: 2023 (submitted)
+      year: 2024
     - course: BSc(Hons) in Applied Mathematics
       institution: University of Southern Queensland
       year: 2017
@@ -54,17 +55,17 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 80
+        percent: 85
         icon: r-project
         icon_pack: fab
       - name: Matlab
         description: ''
-        percent: 70
+        percent: 75
         icon: ''
         icon_pack: ''
       - name: latex
         description: ''
-        percent: 40
+        percent: 45
         icon: overleaf
         icon_pack: ai
   - name: Hobbies

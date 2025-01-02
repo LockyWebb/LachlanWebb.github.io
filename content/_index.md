@@ -62,20 +62,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD student
+        - title: Research Officer
+          company: QIMR Berghofer - Clinical Brain Networks
+          company_url: ''
+          company_log: ''
+          location: Brisbane, Australia
+          date_start: '2024-06-08'
+          date_end: ''
+          description: Postdoctoral Researcher 
+        - title: PhD student - Brain Modelling Group
           company: QIMR Berghofer 
           company_url: ''
           company_logo: ''
           location: Brisbane, Australia 
           date_start: '2020-01-01'
-          date_end: ''
+          date_end: '2023-11-31'
           description: |2-
               Research areas include:
 
               * Sleep modelling
               * Neural mass model
               * Sleep neurodevelopment over infancy
-        - title: Biostatistician
+        - title: Biostatistician - Statistics Unit
           company: QIMR Berghofer
           company_url: ''
           company_logo: ''
