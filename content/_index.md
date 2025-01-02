@@ -76,7 +76,7 @@ sections:
           company_logo: ''
           location: Brisbane, Australia 
           date_start: '2020-01-01'
-          date_end: '2023-11-31'
+          date_end: '2023-11-30'
           description: |2-
               Research areas include:
 
